@@ -2,7 +2,7 @@
 
 Senior Technical/API Writer with 15+ years of experience in API documentation, user guides, internal handbooks, and Docs-as-Code practices.
 
-This repository contains redacted samples from previous roles (company names and sensitive details removed for confidentiality). All documents are excerpts or anonymized versions.
+This repository contains redacted and unredacted samples from previous roles. Some company names and sensitive details have been removed for confidentiality. Documents are either excerpts, anonymized versions, or the entire manaul.
 
 Select the docs folder to see available samples.
 
